@@ -195,7 +195,7 @@ Committing changes is how you can mark versions of your code you would like to b
 <br>
 
 ## 3 Push your changes
-Once you have finished a coding session it is a good idea to `push` your commits. The `push` command is basically the opposite of `pull`. `push` takes the changes (commits) you made on your local system and sends them to GitHub. <span style="color:red"> **IMPORTANT: always push before you pull!**</span> 
+Once you have finished a coding session it is a good idea to `push` your commits. The `push` command is basically the opposite of `pull`. `push` takes the changes (commits) you made on your local system and sends them to GitHub.
 1. Add and commit your changes (see above)
 2. Enter the command `git push` to push the changes from your system to GitHub
 3. You can confirm this worked by heading to GitHub and seeing the changes reflected on your repo page
